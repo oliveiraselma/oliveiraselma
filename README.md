@@ -15,8 +15,8 @@
 <br>
 <br>
 <h2>  Quer me conhecer?</h2>
-<h2> 📫 Email: <a href = https://gmail.com > <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-<h2> 💻 Linkedin: <a href = https://linkedin.com> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+<h2> 📫 Email: <a href = https://gmail.com > <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> www.gmail.com/oliveira.selma
+<h2> 💻 Linkedin: <a href = https://linkedin.com>  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>  http://www.linkedin.com/in/selmaoliveiraa
 <br>
 <br>  
   
