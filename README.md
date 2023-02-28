@@ -2,7 +2,7 @@
 
 <h2> Oi 👋  Eu sou a Selma! 😜</h2>
 <h2> Seja bem-vindo(a) a minha página! 🌼 </h2>
-<h2> Sou uma programadora front-end 👩  e neste meu repositório 📁 vc encontra alguns projetos  que fiz paralelamente ao curso Full stack DevClub entre outros.🚀<h2/>
+<h2> Sou uma programadora front-end 👩  e neste meu repositório 📁 vc encontra alguns projetos  que fiz paralelamente aos cursos e também projetos pessoais.🚀<h2/>
 <br>
 <h2> ⚡Tecnologias que estudo e utilizo 💻: 
 <br> 
